@@ -1,9 +1,7 @@
-```markdown
 # Machine Learning Project with R
-
 This repository contains an R script for running and training multiple models to predict "classe" using a training dataset, and subsequently using the best model to predict outcomes for a test dataset.
 
-For the RPubs report, go here: [RPubs Report](https://rpubs.com/bzhang93/coursera-machine-learning-project)
+```markdown
 
 ## Getting Started
 
