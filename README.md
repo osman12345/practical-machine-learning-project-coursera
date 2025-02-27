@@ -23,7 +23,7 @@ install.packages(c("lattice", "ggplot2", "caret", "kernlab", "rattle", "corrplot
 ## Data
 
 The script assumes the presence of two CSV files:
-- `pml-training.csv`: Training dataset
+- [Training dataset](https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv): Training dataset
 - `pml-testing.csv`: Test dataset
 
 Ensure these files are placed in the same directory as your R script or provide the correct paths in the script.
