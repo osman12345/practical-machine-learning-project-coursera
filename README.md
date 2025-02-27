@@ -1,5 +1,3 @@
-Apologies for the confusion! Here’s the full README, including the text outside the markdown, formatted entirely in Markdown:
-
 ```markdown
 # Machine Learning Project with R
 
@@ -61,9 +59,3 @@ To run the script:
 2. Place the script and datasets in the same directory or update file paths accordingly.
 3. Execute the script in an R environment.
 
-## Additional Notes
-
-For a detailed report, visit [RPubs](https://rpubs.com/bzhang93/coursera-machine-learning-project).
-```
-
-This version now includes the RPubs link, as well as the whole content inside the markdown section. Just copy and paste it into your GitHub README file!
